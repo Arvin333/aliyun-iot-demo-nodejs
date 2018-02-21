@@ -1,0 +1,15 @@
+{
+  "name": "thermometer-iot-fc-dingtalk",
+  "version": "0.0.1",
+  "description": "thermometer-iot-fc-dingtalk",
+  "private": true,
+  "dependencies": {
+    "aliyun-iot-mqtt": "^0.0.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iot-blog/thermometer-iot-fc-dingtalk"
+  },
+  "author": "wongxming",
+  "license": "MIT"
+}
