@@ -1,6 +1,6 @@
 # thermometer-iot-fc-dingtalk
 
-## 1.[温湿度计上报数据到钉钉群机器人实践](https://help.aliyun.com/document_detail/65255.html)、
+## 1.[温湿度计上报数据到钉钉群机器人实践](https://help.aliyun.com/document_detail/65255.html)
 
 场景：办公室中已经布点的温湿度计设备上报数据到钉钉群机器人。
 
@@ -14,7 +14,7 @@
 $ node thermometer.js
 ```
 
-## 3.[规则引擎SQL](https://help.aliyun.com/document_detail/42732.html)
+## 3.[规则引擎SQL](https://help.aliyun.com/document_detail/30554.html)
 
 rules-engine-fc.sql
 ```bash
@@ -22,7 +22,7 @@ payload :{temperature: 18,humidity: 63}
 
 ```
 
-## 4.函数计算脚本
+## 4.[函数计算](https://help.aliyun.com/document_detail/51733.html)脚本
 
 fc-post2Dingtalk.js
 
