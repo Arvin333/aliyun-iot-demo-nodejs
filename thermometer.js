@@ -19,8 +19,22 @@ const data = {
     humidity: Math.floor((Math.random()*100)+20),
 };
 
+client.on('connect', function (connack) {
+  console.log("connect... ",JSON.stringify(connack));
+})
+ 
+client.on('message', function (topic, message) {
+  console.log("\nReceived: "+topic)
+  console.log(message.toString())
+})
+client.on('close', function () {
+  console.log("close... ")
+})
+
+//订阅topic
+client.subscribe(topic)
+//发布数据到topic
 client.publish(topic, JSON.stringify(data));
 
-client.end(function (){
-    console.log("end")
-})
+//client.end()
+
