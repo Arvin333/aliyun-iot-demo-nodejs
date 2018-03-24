@@ -26,6 +26,10 @@ payload :{temperature: 18,humidity: 63}
 
 fc-post2Dingtalk.js
 
-## 5.IoT套件技术支持群
+
+## 5.[表格存储](https://www.aliyun.com/product/ots)
+配置规则引擎转储到ots
+
+## 6.IoT套件技术支持群
 
 ![](https://gw.alipayobjects.com/zos/skylark/c79fe29d-8c52-475e-a5c8-de95de005d99/2018/png/17fb88e0-1d91-4f0a-bd20-3f38afd46c6c.png)
