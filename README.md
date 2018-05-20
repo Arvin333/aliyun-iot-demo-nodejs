@@ -1,6 +1,6 @@
 ## thermometer-iot-fc-dingtalk
 
-### 1. 阿里云IoT物联网套件-高级版产品开发实战
+### 1. 阿里云IoT物联网套件-基础版产品开发实战
 
 ### 1.1 [温湿度计上报数据到钉钉群机器人实践](https://help.aliyun.com/document_detail/65255.html)
 场景：办公室中已经布点的温湿度计设备上报数据到钉钉群机器人。
@@ -84,10 +84,6 @@ setInterval(function() {
 
 ![](https://raw.githubusercontent.com/iot-blog/thermometer-iot-fc-dingtalk/master/images/device-status.png)
 
-## 3.帮助&反馈
+## 3.IoT物联网技术-微信公共账号
 
-<img src='https://raw.githubusercontent.com/iot-blog/yunqi-iot-demo/master/images/iot-dd.png' width="240" height="300" />
-
-联系我：
-
-<img src='https://raw.githubusercontent.com/wongxming/dtalkNodejs/master/wongxming.jpg' width="240" height="240" />
+<img src='https://raw.githubusercontent.com/wongxming/ecs/master/iot-tech-weixin.png' width="260" height="260" />
